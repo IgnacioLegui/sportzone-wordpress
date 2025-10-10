@@ -34,9 +34,23 @@ Me enfoqué en:
 
 ## 🖼️ Capturas del sitio
 
-| Página principal | Sección de productos |
-|------------------|----------------------|
-| ![Home](https://github.com/IgnacioLegui/sportzone-wordpress/blob/main/docs/home-page.jpg) | ![Productos](https://github.com/IgnacioLegui/sportzone-wordpress/blob/main/docs/products-page.jpg) |
+A continuación se muestran algunas secciones del sitio web:
+
+<div align="center">
+  <img src="docs/home-page.jpg" alt="Página principal" width="90%">
+  <p><strong>Página principal</strong></p>
+  <br>
+
+  <img src="docs/products-page.jpg" alt="Sección de productos" width="90%">
+  <p><strong>Sección de productos</strong></p>
+  <br>
+
+  <img src="docs/single-product.jpg" alt="Página de Producto" width="90%">
+  <p><strong>Página de Producto</strong></p>
+  <br>
+
+</div>
+
 
 ---
 
