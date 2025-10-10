@@ -36,7 +36,7 @@ Me enfoqué en:
 
 | Página principal | Sección de productos |
 |------------------|----------------------|
-| ![Home](docs/home-page.png) | ![Productos](docs/products-page.png) |
+| ![Home]([docs/home-page.png](https://github.com/IgnacioLegui/sportzone-wordpress/blob/main/docs/home-page.jpg)) | ![Productos]([docs/products-page.png](https://github.com/IgnacioLegui/sportzone-wordpress/blob/main/docs/products-page.jpg)) |
 
 ---
 
