@@ -5,12 +5,12 @@ El sitio busca ofrecer una experiencia moderna, clara y responsive para la prese
 
 ---
 
-## 🌐 Enlace en línea
+## Enlace en línea
 🔗 [https://sport-zone.space](https://sport-zone.space)
 
 ---
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 El objetivo principal fue construir un sitio funcional, visualmente atractivo y fácil de administrar para usuarios sin conocimientos técnicos, aprovechando la flexibilidad del entorno WordPress.  
 
 Me enfoqué en:
@@ -21,7 +21,7 @@ Me enfoqué en:
 
 ---
 
-## 🧠 Tecnologías y herramientas utilizadas
+## Tecnologías y herramientas utilizadas
 - **WordPress** (CMS)
 - **Tema Astra** (como base visual y estructural)
 - **Elementor** y/o **Bloques nativos** para la composición visual
@@ -32,7 +32,7 @@ Me enfoqué en:
 
 ---
 
-## 🖼️ Capturas del sitio
+## Capturas del sitio
 
 A continuación se muestran algunas secciones del sitio web:
 
@@ -54,7 +54,7 @@ A continuación se muestran algunas secciones del sitio web:
 
 ---
 
-## 📬 Contacto
+## Contacto
 📧 [leguizamonignacio10@gmail.com](mailto:leguizamonignacio10@gmail.com)  
 🌎 [Portfolio](https://ignacioleguizamon.site)  
 💼 [LinkedIn](https://linkedin.com/in/ignaciolegui)  
@@ -62,6 +62,6 @@ A continuación se muestran algunas secciones del sitio web:
 
 ---
 
-## 📜 Licencia
+## Licencia
 Este proyecto fue creado con fines **académicos y demostrativos**.  
 El tema **Astra** pertenece a [Brainstorm Force](https://wpastra.com/) y se distribuye bajo la licencia GPL v2.
