@@ -55,7 +55,7 @@ A continuación se muestran algunas secciones del sitio web:
 ---
 
 ## 📬 Contacto
-📧 [leguizamonignacio10.dev@gmail.com](mailto:leguizamonignacio10@gmail.com)  
+📧 [leguizamonignacio10@gmail.com](mailto:leguizamonignacio10@gmail.com)  
 🌎 [Portfolio](https://ignacioleguizamon.site)  
 💼 [LinkedIn](https://linkedin.com/in/ignaciolegui)  
 💻 [GitHub](https://github.com/ignaciolegui)
