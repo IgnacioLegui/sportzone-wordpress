@@ -1,67 +1,59 @@
-# 🏋️‍♂️ SportZone – Sitio web WordPress
+🏋️‍♂️ SportZone – WordPress Website
 
-**SportZone** es un proyecto académico desarrollado como una **plataforma web deportiva**, creada con **WordPress** y basada en el tema **Astra**.  
-El sitio busca ofrecer una experiencia moderna, clara y responsive para la presentación de contenidos relacionados con el deporte, la salud y el bienestar.
+SportZone is an academic project developed as a sports web platform, created with WordPress and based on the Astra theme.
+The website aims to deliver a modern, clean, and responsive experience for presenting content related to sports, health, and wellness.
 
----
+Live Demo
 
-## Enlace en línea
-🔗 [https://sport-zone.space](https://sport-zone.space)
+🔗 https://sport-zone.space
 
----
+Project Objective
 
-## Objetivo del proyecto
-El objetivo principal fue construir un sitio funcional, visualmente atractivo y fácil de administrar para usuarios sin conocimientos técnicos, aprovechando la flexibilidad del entorno WordPress.  
+The main goal was to build a functional, visually appealing, and easy-to-manage website for users without technical knowledge, leveraging the flexibility of the WordPress ecosystem.
 
-Me enfoqué en:
-- Personalizar la estructura y el diseño del tema Astra.  
-- Adaptar la paleta de colores, tipografía y estilo visual a la identidad del proyecto.  
-- Seleccionar y optimizar imágenes y recursos multimedia.  
-- Configurar la navegación, secciones y categorías de contenido.  
+My focus included:
 
----
+Customizing the structure and design of the Astra theme.
 
-## Tecnologías y herramientas utilizadas
-- **WordPress** (CMS)
-- **Tema Astra** (como base visual y estructural)
-- **Elementor** y/o **Bloques nativos** para la composición visual
-- **HTML5 / CSS3** (ajustes personalizados)
-- **Hostinger** (alojamiento web)
-- **PHP 8.x** (ejecución del entorno WordPress)
-- **MySQL** (base de datos)
+Adapting the color palette, typography, and visual style to match the project’s identity.
 
----
+Selecting and optimizing images and multimedia resources.
 
-## Capturas del sitio
+Configuring navigation, sections, and content categories.
 
-A continuación se muestran algunas secciones del sitio web:
+Technologies and Tools Used
 
-<div align="center">
-  <img src="docs/home-page.jpg" alt="Página principal" width="90%">
-  <p><strong>Página principal</strong></p>
-  <br>
+WordPress (CMS)
 
-  <img src="docs/products-page.jpg" alt="Sección de productos" width="90%">
-  <p><strong>Sección de productos</strong></p>
-  <br>
+Astra Theme (visual and structural base)
 
-  <img src="docs/single-product.jpg" alt="Página de Producto" width="90%">
-  <p><strong>Página de Producto</strong></p>
-  <br>
+Elementor and/or Native Blocks for visual composition
 
-</div>
+HTML5 / CSS3 (custom adjustments)
 
+Hostinger (web hosting)
 
----
+PHP 8.x (WordPress runtime environment)
 
-## Contacto
-📧 [leguizamonignacio10@gmail.com](mailto:leguizamonignacio10@gmail.com)  
-🌎 [Portfolio](https://ignacioleguizamon.site)  
-💼 [LinkedIn](https://linkedin.com/in/ignaciolegui)  
-💻 [GitHub](https://github.com/ignaciolegui)
+MySQL (database)
 
----
+Website Screenshots
 
-## Licencia
-Este proyecto fue creado con fines **académicos y demostrativos**.  
-El tema **Astra** pertenece a [Brainstorm Force](https://wpastra.com/) y se distribuye bajo la licencia GPL v2.
+Below are some sections of the website:
+
+<div align="center"> <img src="docs/home-page.jpg" alt="Home page" width="90%"> <p><strong>Home page</strong></p> <br> <img src="docs/products-page.jpg" alt="Products section" width="90%"> <p><strong>Products section</strong></p> <br> <img src="docs/single-product.jpg" alt="Product page" width="90%"> <p><strong>Product page</strong></p> <br> </div>
+Contact
+
+📧 leguizamonignacio10@gmail.com
+
+🌎 Portfolio
+
+💼 LinkedIn
+
+💻 GitHub
+
+License
+
+This project was created for academic and demonstrative purposes.
+The Astra theme belongs to Brainstorm Force
+ and is distributed under the GPL v2 license.
