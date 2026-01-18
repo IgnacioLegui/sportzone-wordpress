@@ -1,4 +1,4 @@
-<h1>🏋️‍♂️ SportZone – WordPress Website</h1>
+<h1 align="center"> SportZone – WordPress Website</h1>
   <p>
     <strong>SportZone</strong> is an academic project developed as a
     <strong>sports web platform</strong>, created with <strong>WordPress</strong>
@@ -51,23 +51,41 @@
     <br>
   </div>
   <hr>
-  <h2>Contact</h2>
+ <h2>Contact</h2>
+<hr>
 
-📧 **Email:**  
-[leguizamonignacio10@gmail.com](mailto:leguizamonignacio10@gmail.com)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" />
+  <strong> Email:</strong><br>
+  <a href="mailto:leguizamognacio10@gmail.com">
+    leguizamognacio10@gmail.com
+  </a>
+</p>
 
-🌎 **Portfolio:**  
-[ignacioleguizamon.site](https://ignacioleguizamon.site)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="18" />
+  <strong> Portfolio:</strong><br>
+  <a href="https://ignacioleguizamon.site" target="_blank">
+    ignacioleguizamon.site
+  </a>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> **LinkedIn:**  
-<a href="https://linkedin.com/in/ignaciolegui">
-  linkedin.com/in/ignaciolegui
-</a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" />
+  <strong> LinkedIn:</strong><br>
+  <a href="https://linkedin.com/in/ignaciolegui" target="_blank">
+    linkedin.com/in/ignaciolegui
+  </a>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> **GitHub:**  
-<a href="https://github.com/ignaciolegui">
-  github.com/ignaciolegui
-</a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18" />
+  <strong> GitHub:</strong><br>
+  <a href="https://github.com/ignaciolegui" target="_blank">
+    github.com/ignaciolegui
+  </a>
+</p>
+
 
   <hr>
   <h2>License</h2>
