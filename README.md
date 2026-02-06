@@ -51,6 +51,30 @@
     <br>
   </div>
   <hr>
+  <h2>Documentation</h2>
+  <p>
+    The following documents contain the formal planning, requirements, and risk analysis developed for this project:
+  </p>
+  
+  <ul>
+    <li>
+      <strong>Software Requirements Specification</strong><br>
+      Detailed definition of the system's functional and non-functional requirements.<br>
+      👉 <a href="docs/Especificacion_de_Requerimientos_de_Software_SportZone.pdf" target="_blank">Download SRS (PDF)</a>
+    </li>
+    <br>
+    <li>
+      <strong>Software Development Plan</strong><br>
+      Project planning, WBS, and effort estimations using FPA and COCOMO.<br>
+      👉 <a href="docs/SportZone_Plan_de_Desarrollo_v1.0.pdf" target="_blank">Download Development Plan (PDF)</a>
+    </li>
+    <br>
+    <li>
+      <strong>Risk List</strong><br>
+      Identification and mitigation strategies for technical and project risks.<br>
+      👉 <a href="docs/Lista_de_Riesgos_SportZone.pdf" target="_blank">Download Risk List (PDF)</a>
+    </li>
+  </ul>
  <h2>Contact</h2>
 <hr>
 
