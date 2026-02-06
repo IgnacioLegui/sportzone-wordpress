@@ -60,7 +60,7 @@
     <li>
       <strong>Software Requirements Specification</strong><br>
       Detailed definition of the system's functional and non-functional requirements.<br>
-      👉 <a href="docs/Especificacion_de_Requerimientos_de_Software_SportZone.pdf" target="_blank">Download SRS (PDF)</a>
+      👉 <a href="docs/Especificacion de Requerimientos de Software - SportZone.pdf" target="_blank">Download SRS (PDF)</a>
     </li>
     <br>
     <li>
@@ -72,7 +72,7 @@
     <li>
       <strong>Risk List</strong><br>
       Identification and mitigation strategies for technical and project risks.<br>
-      👉 <a href="docs/Lista_de_Riesgos_SportZone.pdf" target="_blank">Download Risk List (PDF)</a>
+      👉 <a href="docs/Lista de Riesgos - SportZone.pdf" target="_blank">Download Risk List (PDF)</a>
     </li>
   </ul>
  <h2>Contact</h2>
