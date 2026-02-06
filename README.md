@@ -60,7 +60,7 @@
     <li>
       <strong>Software Requirements Specification</strong><br>
       Detailed definition of the system's functional and non-functional requirements.<br>
-      👉 <a href="docs/Especificacion de Requerimientos de Software - SportZone.pdf" target="_blank">Download SRS (PDF)</a>
+      👉 <a href="docs/Especificación de Requerimientos de Software - SportZone.pdf" target="_blank">Download SRS (PDF)</a>
     </li>
     <br>
     <li>
