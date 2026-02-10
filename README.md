@@ -1,5 +1,6 @@
 # SportZone – WordPress Website 🏀
 **SportZone** is an academic project developed as a **sports web platform**, created with **WordPress** and based on the **Astra** theme. The website aims to deliver a modern, clean, and responsive experience for presenting content related to sports, health, and wellness.
+
 ![WordPress](https://img.shields.io/badge/WordPress-6.0%2B-blue)
 ![PHP](https://img.shields.io/badge/PHP-8.0%2B-purple)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-orange)
@@ -47,6 +48,7 @@ The following documents contain the formal planning, requirements, and risk anal
 For inquiries, collaborations, or support, feel free to reach out:
 **Ignacio Leguizamon**  
 Software Developer
+
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:leguizamognacio10@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Website-ignacioleguizamon.site-blueviolet?style=flat&logo=safari)](https://ignacioleguizamon.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ignaciolegui)
